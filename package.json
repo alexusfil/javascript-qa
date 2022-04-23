@@ -1,0 +1,25 @@
+{
+  "name": "lessons_js",
+  "version": "1.0.0",
+  "description": "Обучение тестированию с JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexusfil/javascript-qa.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Alexey Filatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexusfil/javascript-qa/issues"
+  },
+  "homepage": "https://github.com/alexusfil/javascript-qa#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
